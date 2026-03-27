@@ -1,1 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>forms tapsirma</title>
+</head>
+<body>
+    <form>
+        <p>1-tapsirma</p>
+        <label>Login:</label><br>
+        <input type="text"><br>
+        <label>Parol:</label><br>
+        <input type="password"><br><br>
+        <button type="submit">Kiriw</button>
 
+    </form>
+</body>
+</html>
