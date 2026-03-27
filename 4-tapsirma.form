@@ -1,1 +1,20 @@
-
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>forms tapsirma</title>
+</head>
+<body>
+    <form>
+        <p>4-tapsirma</p>
+        <h3>Qaysi tillarni bilasiz?</h3>
+        <input type="radio" name="status">
+        <label>Ozbek tili</label><br>
+        <input type="radio" name="status">
+        <label>Inglis tili</label><br>
+        <input type="radio"name="status">
+        <label>Rus tili</label>
+    </form>
+</body>
+</html>
