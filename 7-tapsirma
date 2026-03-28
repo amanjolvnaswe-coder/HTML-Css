@@ -1,1 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>forms tapsirma</title>
+</head>
+<body>
+    <p>7-tapsirma</p>
+    <h3>uy tapsirmasin(fayldi)tanlan:</h3>
+    
+    <button>choose file</button>   
+     <label>no file choosen</label><br><br>
+     <label>esletpe:fayl tanlaw majburiy!</label>
 
+   </form>
+    
+</body>
+</html>
