@@ -1,1 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>forms tapsirma</title>
+</head>
+<body>
+    <p>6-tapsirma</p>
+    <h3>Gmail manzilinizge jiberilgen 6 xanali kodti kirgizin:</h3>
+    
+    <input type="text" style="width: 10px; height: 20px;">
+    <input type="text" style="width: 10px; height: 20px;">
+    <input type="text" style="width: 10px; height: 20px;">
+    <input type="text" style="width: 10px; height: 20px;">
+    <input type="text" style="width: 10px; height: 20px;">
 
+
+   </form>
+    
+</body>
+</html>
