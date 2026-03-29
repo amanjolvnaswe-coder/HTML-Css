@@ -1,1 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>forms tapsirma</title>
+</head>
+<body>
+    <form>
+        <p>1-tapsirma</p>
+        <label></label>
+        <input type="text"placeholder="Name"><br>
+        <br>
+        <label></label>
+        <input type="text"placeholder="Email">
 
+
+
+    </form>
+</body>
+</html>
