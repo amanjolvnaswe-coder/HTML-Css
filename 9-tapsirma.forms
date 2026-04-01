@@ -1,1 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>forms tapsirma</title>
+</head>
+<body> 
+    <style>
+        .alma{
+            display: inline-block;
+            width:98px;
+            padding:0 10px;
+            background-color: rgb(196, 72, 72);
+            box-sizing: border-box;
+             
+        }
+        .banan{
+            display: inline-block;
+            width: 98px;
+            padding: 0 10px;
+            background-color: rgb(49, 177, 134);
+            box-sizing: border-box;
+        }
+        .juzim{
+            display: block;
+            width: 200px;
+            padding:0 10px;
+            background-color: rgb(26, 144, 160);
+            margin-top: 2px;
+            box-sizing: border-box;
+        }
 
+    </style>
+    <span class="alma">Alma</span>
+    <span class="banan">Banan</span>
+    <span class="juzim">Juzim</span>
+</body>
+</html>
