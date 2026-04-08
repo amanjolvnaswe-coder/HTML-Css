@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+
+<html>
+    <head>
+     <title>Tapsirma</title>
+   
+    </head>
+    <body>
+        <form>
+      <h1>Jinsinizdi belgilen:</h1>
+      <input type="radio" name="jinis" required id="erkek">
+      <label>Erkek</label>
+      <input type="radio" name="jinis" required id="hayal">
+      <label>Hayal</label>
+      <button type="submit" style="display: block;">Jiberiw</button>
+
+        
+       </form>
+    </body>
+</html>
