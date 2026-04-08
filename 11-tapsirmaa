@@ -1,1 +1,18 @@
-
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>forms</title>
+</head>
+<body>
+    <form>
+    <label>Name:</label>
+    <input type="text">
+    <textarea rows="5" cols="40" style="display: block;" margin-top:7px;>Comment:</textarea>
+    <button typ="submit" style="display: block;" margin-top:5px;>Send Comment</button>
+        
+    
+    </form>
+</body>
+</html>
