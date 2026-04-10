@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>forms part-2</title>
+    <style>
+        select{
+            widht:300px;
+            padding:10px;
+            margin-bottom:15px;
+            box-shadow:lightgreen;
+        }
+         textarea{
+            display: block;
+            width: 300px;
+            padding: 10px;
+            border:2px solid blue;
+         }
+    </style>
+</head>
+<body>
+    <form>
+        
+        <select>
+            
+            <option>xizmetti tanlan:</option>
+            <option>Shashtarez</option>
+            <option>salon</option>
+            <option>decator</option>
+        </select>
+        <textarea placeholder="Pikirinizdi usi jerge jazin.."></textarea>
+        
+    </form>
+
+
+</body>
+</html>
